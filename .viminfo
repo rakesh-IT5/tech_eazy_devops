@@ -15,7 +15,9 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1762070837,,"wq"
+|2,0,1762072964,,"wq"
+:q
+|2,0,1762072124,,"q"
 
 # Search String History (newest to oldest):
 ?/region
@@ -35,34 +37,122 @@
 |3,1,36,0,1,0,1762069873,"a"
 
 # File marks:
-'0  6  0  ~/test-repo-for-devops/dev_config
-|4,48,6,0,1762070837,"~/test-repo-for-devops/dev_config"
-'1  3  7  ~/test-repo-for-devops/prod_config
-|4,49,3,7,1762070831,"~/test-repo-for-devops/prod_config"
-'2  6  0  ~/test-repo-for-devops/dev_config
-|4,50,6,0,1762070801,"~/test-repo-for-devops/dev_config"
-'3  150  0  ~/test-repo-for-devops/main.tf
-|4,51,150,0,1762070781,"~/test-repo-for-devops/main.tf"
-'4  39  14  ~/test-repo-for-devops/deploy.sh
-|4,52,39,14,1762070590,"~/test-repo-for-devops/deploy.sh"
-'5  6  0  ~/test-repo-for-devops/dev_config
-|4,53,6,0,1762070569,"~/test-repo-for-devops/dev_config"
+'0  8  14  ~/test-repo-for-devops/deploy.sh
+|4,48,8,14,1762072964,"~/test-repo-for-devops/deploy.sh"
+'1  1  0  ~/test-repo-for-devops/commit
+|4,49,1,0,1762072124,"~/test-repo-for-devops/commit"
+'2  1  10  ~/test-repo-for-devops/deploy.sh
+|4,50,1,10,1762072102,"~/test-repo-for-devops/deploy.sh"
+'3  1  10  ~/test-repo-for-devops/deploy.sh
+|4,51,1,10,1762072102,"~/test-repo-for-devops/deploy.sh"
+'4  1  10  ~/test-repo-for-devops/deploy.sh
+|4,52,1,10,1762072102,"~/test-repo-for-devops/deploy.sh"
+'5  1  10  ~/test-repo-for-devops/deploy.sh
+|4,53,1,10,1762072102,"~/test-repo-for-devops/deploy.sh"
 '6  6  0  ~/test-repo-for-devops/dev_config
-|4,54,6,0,1762070569,"~/test-repo-for-devops/dev_config"
-'7  6  0  ~/test-repo-for-devops/dev_config
-|4,55,6,0,1762070494,"~/test-repo-for-devops/dev_config"
+|4,54,6,0,1762070837,"~/test-repo-for-devops/dev_config"
+'7  3  7  ~/test-repo-for-devops/prod_config
+|4,55,3,7,1762070831,"~/test-repo-for-devops/prod_config"
 '8  6  0  ~/test-repo-for-devops/dev_config
-|4,56,6,0,1762070494,"~/test-repo-for-devops/dev_config"
-'9  6  0  ~/test-repo-for-devops/dev_config
-|4,57,6,0,1762070494,"~/test-repo-for-devops/dev_config"
+|4,56,6,0,1762070801,"~/test-repo-for-devops/dev_config"
+'9  150  0  ~/test-repo-for-devops/main.tf
+|4,57,150,0,1762070781,"~/test-repo-for-devops/main.tf"
 
 # Jumplist (newest first):
+-'  8  14  ~/test-repo-for-devops/deploy.sh
+|4,39,8,14,1762072964,"~/test-repo-for-devops/deploy.sh"
+-'  1  10  ~/test-repo-for-devops/deploy.sh
+|4,39,1,10,1762072941,"~/test-repo-for-devops/deploy.sh"
+-'  1  0  ~/test-repo-for-devops/commit
+|4,39,1,0,1762072124,"~/test-repo-for-devops/commit"
+-'  1  0  ~/test-repo-for-devops/commit
+|4,39,1,0,1762072124,"~/test-repo-for-devops/commit"
+-'  1  10  ~/test-repo-for-devops/deploy.sh
+|4,39,1,10,1762072102,"~/test-repo-for-devops/deploy.sh"
+-'  1  10  ~/test-repo-for-devops/deploy.sh
+|4,39,1,10,1762072102,"~/test-repo-for-devops/deploy.sh"
+-'  39  14  ~/test-repo-for-devops/deploy.sh
+|4,39,39,14,1762072095,"~/test-repo-for-devops/deploy.sh"
+-'  39  14  ~/test-repo-for-devops/deploy.sh
+|4,39,39,14,1762072095,"~/test-repo-for-devops/deploy.sh"
+-'  39  14  ~/test-repo-for-devops/deploy.sh
+|4,39,39,14,1762072095,"~/test-repo-for-devops/deploy.sh"
+-'  6  0  ~/test-repo-for-devops/dev_config
+|4,39,6,0,1762070837,"~/test-repo-for-devops/dev_config"
+-'  6  0  ~/test-repo-for-devops/dev_config
+|4,39,6,0,1762070837,"~/test-repo-for-devops/dev_config"
+-'  6  0  ~/test-repo-for-devops/dev_config
+|4,39,6,0,1762070837,"~/test-repo-for-devops/dev_config"
+-'  6  0  ~/test-repo-for-devops/dev_config
+|4,39,6,0,1762070837,"~/test-repo-for-devops/dev_config"
+-'  6  0  ~/test-repo-for-devops/dev_config
+|4,39,6,0,1762070837,"~/test-repo-for-devops/dev_config"
+-'  6  0  ~/test-repo-for-devops/dev_config
+|4,39,6,0,1762070837,"~/test-repo-for-devops/dev_config"
+-'  6  0  ~/test-repo-for-devops/dev_config
+|4,39,6,0,1762070837,"~/test-repo-for-devops/dev_config"
 -'  6  0  ~/test-repo-for-devops/dev_config
 |4,39,6,0,1762070837,"~/test-repo-for-devops/dev_config"
 -'  3  7  ~/test-repo-for-devops/prod_config
 |4,39,3,7,1762070831,"~/test-repo-for-devops/prod_config"
 -'  3  7  ~/test-repo-for-devops/prod_config
 |4,39,3,7,1762070831,"~/test-repo-for-devops/prod_config"
+-'  3  7  ~/test-repo-for-devops/prod_config
+|4,39,3,7,1762070831,"~/test-repo-for-devops/prod_config"
+-'  3  7  ~/test-repo-for-devops/prod_config
+|4,39,3,7,1762070831,"~/test-repo-for-devops/prod_config"
+-'  3  7  ~/test-repo-for-devops/prod_config
+|4,39,3,7,1762070831,"~/test-repo-for-devops/prod_config"
+-'  3  7  ~/test-repo-for-devops/prod_config
+|4,39,3,7,1762070831,"~/test-repo-for-devops/prod_config"
+-'  3  7  ~/test-repo-for-devops/prod_config
+|4,39,3,7,1762070831,"~/test-repo-for-devops/prod_config"
+-'  3  7  ~/test-repo-for-devops/prod_config
+|4,39,3,7,1762070831,"~/test-repo-for-devops/prod_config"
+-'  3  7  ~/test-repo-for-devops/prod_config
+|4,39,3,7,1762070831,"~/test-repo-for-devops/prod_config"
+-'  3  7  ~/test-repo-for-devops/prod_config
+|4,39,3,7,1762070831,"~/test-repo-for-devops/prod_config"
+-'  3  7  ~/test-repo-for-devops/prod_config
+|4,39,3,7,1762070831,"~/test-repo-for-devops/prod_config"
+-'  3  7  ~/test-repo-for-devops/prod_config
+|4,39,3,7,1762070831,"~/test-repo-for-devops/prod_config"
+-'  3  7  ~/test-repo-for-devops/prod_config
+|4,39,3,7,1762070831,"~/test-repo-for-devops/prod_config"
+-'  3  7  ~/test-repo-for-devops/prod_config
+|4,39,3,7,1762070831,"~/test-repo-for-devops/prod_config"
+-'  3  7  ~/test-repo-for-devops/prod_config
+|4,39,3,7,1762070831,"~/test-repo-for-devops/prod_config"
+-'  3  7  ~/test-repo-for-devops/prod_config
+|4,39,3,7,1762070831,"~/test-repo-for-devops/prod_config"
+-'  6  0  ~/test-repo-for-devops/dev_config
+|4,39,6,0,1762070801,"~/test-repo-for-devops/dev_config"
+-'  6  0  ~/test-repo-for-devops/dev_config
+|4,39,6,0,1762070801,"~/test-repo-for-devops/dev_config"
+-'  6  0  ~/test-repo-for-devops/dev_config
+|4,39,6,0,1762070801,"~/test-repo-for-devops/dev_config"
+-'  6  0  ~/test-repo-for-devops/dev_config
+|4,39,6,0,1762070801,"~/test-repo-for-devops/dev_config"
+-'  6  0  ~/test-repo-for-devops/dev_config
+|4,39,6,0,1762070801,"~/test-repo-for-devops/dev_config"
+-'  6  0  ~/test-repo-for-devops/dev_config
+|4,39,6,0,1762070801,"~/test-repo-for-devops/dev_config"
+-'  6  0  ~/test-repo-for-devops/dev_config
+|4,39,6,0,1762070801,"~/test-repo-for-devops/dev_config"
+-'  6  0  ~/test-repo-for-devops/dev_config
+|4,39,6,0,1762070801,"~/test-repo-for-devops/dev_config"
+-'  6  0  ~/test-repo-for-devops/dev_config
+|4,39,6,0,1762070801,"~/test-repo-for-devops/dev_config"
+-'  6  0  ~/test-repo-for-devops/dev_config
+|4,39,6,0,1762070801,"~/test-repo-for-devops/dev_config"
+-'  6  0  ~/test-repo-for-devops/dev_config
+|4,39,6,0,1762070801,"~/test-repo-for-devops/dev_config"
+-'  6  0  ~/test-repo-for-devops/dev_config
+|4,39,6,0,1762070801,"~/test-repo-for-devops/dev_config"
+-'  6  0  ~/test-repo-for-devops/dev_config
+|4,39,6,0,1762070801,"~/test-repo-for-devops/dev_config"
+-'  6  0  ~/test-repo-for-devops/dev_config
+|4,39,6,0,1762070801,"~/test-repo-for-devops/dev_config"
 -'  6  0  ~/test-repo-for-devops/dev_config
 |4,39,6,0,1762070801,"~/test-repo-for-devops/dev_config"
 -'  6  0  ~/test-repo-for-devops/dev_config
@@ -83,182 +173,107 @@
 |4,39,150,0,1762070781,"~/test-repo-for-devops/main.tf"
 -'  150  0  ~/test-repo-for-devops/main.tf
 |4,39,150,0,1762070781,"~/test-repo-for-devops/main.tf"
--'  39  14  ~/test-repo-for-devops/deploy.sh
-|4,39,39,14,1762070590,"~/test-repo-for-devops/deploy.sh"
--'  39  14  ~/test-repo-for-devops/deploy.sh
-|4,39,39,14,1762070590,"~/test-repo-for-devops/deploy.sh"
--'  39  14  ~/test-repo-for-devops/deploy.sh
-|4,39,39,14,1762070590,"~/test-repo-for-devops/deploy.sh"
--'  39  14  ~/test-repo-for-devops/deploy.sh
-|4,39,39,14,1762070590,"~/test-repo-for-devops/deploy.sh"
--'  39  14  ~/test-repo-for-devops/deploy.sh
-|4,39,39,14,1762070590,"~/test-repo-for-devops/deploy.sh"
--'  39  14  ~/test-repo-for-devops/deploy.sh
-|4,39,39,14,1762070590,"~/test-repo-for-devops/deploy.sh"
--'  39  14  ~/test-repo-for-devops/deploy.sh
-|4,39,39,14,1762070590,"~/test-repo-for-devops/deploy.sh"
--'  39  14  ~/test-repo-for-devops/deploy.sh
-|4,39,39,14,1762070590,"~/test-repo-for-devops/deploy.sh"
--'  39  14  ~/test-repo-for-devops/deploy.sh
-|4,39,39,14,1762070590,"~/test-repo-for-devops/deploy.sh"
--'  39  14  ~/test-repo-for-devops/deploy.sh
-|4,39,39,14,1762070590,"~/test-repo-for-devops/deploy.sh"
--'  39  14  ~/test-repo-for-devops/deploy.sh
-|4,39,39,14,1762070590,"~/test-repo-for-devops/deploy.sh"
--'  39  14  ~/test-repo-for-devops/deploy.sh
-|4,39,39,14,1762070590,"~/test-repo-for-devops/deploy.sh"
--'  39  14  ~/test-repo-for-devops/deploy.sh
-|4,39,39,14,1762070590,"~/test-repo-for-devops/deploy.sh"
--'  39  14  ~/test-repo-for-devops/deploy.sh
-|4,39,39,14,1762070590,"~/test-repo-for-devops/deploy.sh"
--'  39  14  ~/test-repo-for-devops/deploy.sh
-|4,39,39,14,1762070590,"~/test-repo-for-devops/deploy.sh"
--'  39  14  ~/test-repo-for-devops/deploy.sh
-|4,39,39,14,1762070590,"~/test-repo-for-devops/deploy.sh"
--'  35  14  ~/test-repo-for-devops/deploy.sh
-|4,39,35,14,1762070574,"~/test-repo-for-devops/deploy.sh"
--'  35  14  ~/test-repo-for-devops/deploy.sh
-|4,39,35,14,1762070574,"~/test-repo-for-devops/deploy.sh"
--'  35  14  ~/test-repo-for-devops/deploy.sh
-|4,39,35,14,1762070574,"~/test-repo-for-devops/deploy.sh"
--'  35  14  ~/test-repo-for-devops/deploy.sh
-|4,39,35,14,1762070574,"~/test-repo-for-devops/deploy.sh"
--'  35  14  ~/test-repo-for-devops/deploy.sh
-|4,39,35,14,1762070574,"~/test-repo-for-devops/deploy.sh"
--'  35  14  ~/test-repo-for-devops/deploy.sh
-|4,39,35,14,1762070574,"~/test-repo-for-devops/deploy.sh"
--'  35  14  ~/test-repo-for-devops/deploy.sh
-|4,39,35,14,1762070574,"~/test-repo-for-devops/deploy.sh"
--'  35  14  ~/test-repo-for-devops/deploy.sh
-|4,39,35,14,1762070574,"~/test-repo-for-devops/deploy.sh"
--'  35  14  ~/test-repo-for-devops/deploy.sh
-|4,39,35,14,1762070574,"~/test-repo-for-devops/deploy.sh"
--'  35  14  ~/test-repo-for-devops/deploy.sh
-|4,39,35,14,1762070574,"~/test-repo-for-devops/deploy.sh"
--'  35  14  ~/test-repo-for-devops/deploy.sh
-|4,39,35,14,1762070574,"~/test-repo-for-devops/deploy.sh"
--'  35  14  ~/test-repo-for-devops/deploy.sh
-|4,39,35,14,1762070574,"~/test-repo-for-devops/deploy.sh"
--'  35  14  ~/test-repo-for-devops/deploy.sh
-|4,39,35,14,1762070574,"~/test-repo-for-devops/deploy.sh"
--'  35  14  ~/test-repo-for-devops/deploy.sh
-|4,39,35,14,1762070574,"~/test-repo-for-devops/deploy.sh"
--'  35  14  ~/test-repo-for-devops/deploy.sh
-|4,39,35,14,1762070574,"~/test-repo-for-devops/deploy.sh"
--'  35  14  ~/test-repo-for-devops/deploy.sh
-|4,39,35,14,1762070574,"~/test-repo-for-devops/deploy.sh"
--'  6  0  ~/test-repo-for-devops/dev_config
-|4,39,6,0,1762070569,"~/test-repo-for-devops/dev_config"
--'  6  0  ~/test-repo-for-devops/dev_config
-|4,39,6,0,1762070569,"~/test-repo-for-devops/dev_config"
--'  6  0  ~/test-repo-for-devops/dev_config
-|4,39,6,0,1762070569,"~/test-repo-for-devops/dev_config"
--'  6  0  ~/test-repo-for-devops/dev_config
-|4,39,6,0,1762070569,"~/test-repo-for-devops/dev_config"
--'  6  0  ~/test-repo-for-devops/dev_config
-|4,39,6,0,1762070569,"~/test-repo-for-devops/dev_config"
--'  6  0  ~/test-repo-for-devops/dev_config
-|4,39,6,0,1762070569,"~/test-repo-for-devops/dev_config"
--'  6  0  ~/test-repo-for-devops/dev_config
-|4,39,6,0,1762070569,"~/test-repo-for-devops/dev_config"
--'  6  0  ~/test-repo-for-devops/dev_config
-|4,39,6,0,1762070569,"~/test-repo-for-devops/dev_config"
--'  6  0  ~/test-repo-for-devops/dev_config
-|4,39,6,0,1762070494,"~/test-repo-for-devops/dev_config"
--'  6  0  ~/test-repo-for-devops/dev_config
-|4,39,6,0,1762070494,"~/test-repo-for-devops/dev_config"
--'  6  0  ~/test-repo-for-devops/dev_config
-|4,39,6,0,1762070494,"~/test-repo-for-devops/dev_config"
--'  6  0  ~/test-repo-for-devops/dev_config
-|4,39,6,0,1762070494,"~/test-repo-for-devops/dev_config"
--'  6  0  ~/test-repo-for-devops/dev_config
-|4,39,6,0,1762070494,"~/test-repo-for-devops/dev_config"
--'  6  0  ~/test-repo-for-devops/dev_config
-|4,39,6,0,1762070494,"~/test-repo-for-devops/dev_config"
--'  6  0  ~/test-repo-for-devops/dev_config
-|4,39,6,0,1762070494,"~/test-repo-for-devops/dev_config"
--'  6  0  ~/test-repo-for-devops/dev_config
-|4,39,6,0,1762070494,"~/test-repo-for-devops/dev_config"
--'  35  14  ~/test-repo-for-devops/deploy.sh
-|4,39,35,14,1762070480,"~/test-repo-for-devops/deploy.sh"
--'  35  14  ~/test-repo-for-devops/deploy.sh
-|4,39,35,14,1762070480,"~/test-repo-for-devops/deploy.sh"
--'  35  14  ~/test-repo-for-devops/deploy.sh
-|4,39,35,14,1762070480,"~/test-repo-for-devops/deploy.sh"
--'  35  14  ~/test-repo-for-devops/deploy.sh
-|4,39,35,14,1762070480,"~/test-repo-for-devops/deploy.sh"
--'  35  14  ~/test-repo-for-devops/deploy.sh
-|4,39,35,14,1762070480,"~/test-repo-for-devops/deploy.sh"
--'  35  14  ~/test-repo-for-devops/deploy.sh
-|4,39,35,14,1762070480,"~/test-repo-for-devops/deploy.sh"
--'  35  14  ~/test-repo-for-devops/deploy.sh
-|4,39,35,14,1762070480,"~/test-repo-for-devops/deploy.sh"
--'  35  14  ~/test-repo-for-devops/deploy.sh
-|4,39,35,14,1762070480,"~/test-repo-for-devops/deploy.sh"
--'  35  14  ~/test-repo-for-devops/deploy.sh
-|4,39,35,14,1762070480,"~/test-repo-for-devops/deploy.sh"
--'  35  14  ~/test-repo-for-devops/deploy.sh
-|4,39,35,14,1762070480,"~/test-repo-for-devops/deploy.sh"
--'  35  14  ~/test-repo-for-devops/deploy.sh
-|4,39,35,14,1762070480,"~/test-repo-for-devops/deploy.sh"
--'  35  14  ~/test-repo-for-devops/deploy.sh
-|4,39,35,14,1762070480,"~/test-repo-for-devops/deploy.sh"
--'  35  14  ~/test-repo-for-devops/deploy.sh
-|4,39,35,14,1762070480,"~/test-repo-for-devops/deploy.sh"
--'  35  14  ~/test-repo-for-devops/deploy.sh
-|4,39,35,14,1762070480,"~/test-repo-for-devops/deploy.sh"
--'  35  14  ~/test-repo-for-devops/deploy.sh
-|4,39,35,14,1762070480,"~/test-repo-for-devops/deploy.sh"
--'  35  14  ~/test-repo-for-devops/deploy.sh
-|4,39,35,14,1762070480,"~/test-repo-for-devops/deploy.sh"
--'  35  14  ~/test-repo-for-devops/deploy.sh
-|4,39,35,14,1762070480,"~/test-repo-for-devops/deploy.sh"
--'  35  14  ~/test-repo-for-devops/deploy.sh
-|4,39,35,14,1762070480,"~/test-repo-for-devops/deploy.sh"
--'  35  14  ~/test-repo-for-devops/deploy.sh
-|4,39,35,14,1762070480,"~/test-repo-for-devops/deploy.sh"
--'  35  14  ~/test-repo-for-devops/deploy.sh
-|4,39,35,14,1762070480,"~/test-repo-for-devops/deploy.sh"
--'  35  14  ~/test-repo-for-devops/deploy.sh
-|4,39,35,14,1762070480,"~/test-repo-for-devops/deploy.sh"
--'  35  14  ~/test-repo-for-devops/deploy.sh
-|4,39,35,14,1762070480,"~/test-repo-for-devops/deploy.sh"
--'  35  14  ~/test-repo-for-devops/deploy.sh
-|4,39,35,14,1762070480,"~/test-repo-for-devops/deploy.sh"
--'  35  14  ~/test-repo-for-devops/deploy.sh
-|4,39,35,14,1762070480,"~/test-repo-for-devops/deploy.sh"
--'  35  14  ~/test-repo-for-devops/deploy.sh
-|4,39,35,14,1762070480,"~/test-repo-for-devops/deploy.sh"
--'  35  14  ~/test-repo-for-devops/deploy.sh
-|4,39,35,14,1762070480,"~/test-repo-for-devops/deploy.sh"
--'  35  14  ~/test-repo-for-devops/deploy.sh
-|4,39,35,14,1762070480,"~/test-repo-for-devops/deploy.sh"
--'  35  14  ~/test-repo-for-devops/deploy.sh
-|4,39,35,14,1762070480,"~/test-repo-for-devops/deploy.sh"
--'  35  14  ~/test-repo-for-devops/deploy.sh
-|4,39,35,14,1762070480,"~/test-repo-for-devops/deploy.sh"
--'  35  14  ~/test-repo-for-devops/deploy.sh
-|4,39,35,14,1762070480,"~/test-repo-for-devops/deploy.sh"
--'  35  14  ~/test-repo-for-devops/deploy.sh
-|4,39,35,14,1762070480,"~/test-repo-for-devops/deploy.sh"
--'  35  14  ~/test-repo-for-devops/deploy.sh
-|4,39,35,14,1762070480,"~/test-repo-for-devops/deploy.sh"
--'  35  14  ~/test-repo-for-devops/deploy.sh
-|4,39,35,14,1762070480,"~/test-repo-for-devops/deploy.sh"
--'  35  14  ~/test-repo-for-devops/deploy.sh
-|4,39,35,14,1762070480,"~/test-repo-for-devops/deploy.sh"
--'  35  14  ~/test-repo-for-devops/deploy.sh
-|4,39,35,14,1762070480,"~/test-repo-for-devops/deploy.sh"
--'  35  14  ~/test-repo-for-devops/deploy.sh
-|4,39,35,14,1762070480,"~/test-repo-for-devops/deploy.sh"
--'  35  14  ~/test-repo-for-devops/deploy.sh
-|4,39,35,14,1762070480,"~/test-repo-for-devops/deploy.sh"
--'  35  14  ~/test-repo-for-devops/deploy.sh
-|4,39,35,14,1762070480,"~/test-repo-for-devops/deploy.sh"
--'  35  14  ~/test-repo-for-devops/deploy.sh
-|4,39,35,14,1762070480,"~/test-repo-for-devops/deploy.sh"
+-'  150  0  ~/test-repo-for-devops/main.tf
+|4,39,150,0,1762070781,"~/test-repo-for-devops/main.tf"
+-'  150  0  ~/test-repo-for-devops/main.tf
+|4,39,150,0,1762070781,"~/test-repo-for-devops/main.tf"
+-'  150  0  ~/test-repo-for-devops/main.tf
+|4,39,150,0,1762070781,"~/test-repo-for-devops/main.tf"
+-'  150  0  ~/test-repo-for-devops/main.tf
+|4,39,150,0,1762070781,"~/test-repo-for-devops/main.tf"
+-'  150  0  ~/test-repo-for-devops/main.tf
+|4,39,150,0,1762070781,"~/test-repo-for-devops/main.tf"
+-'  150  0  ~/test-repo-for-devops/main.tf
+|4,39,150,0,1762070781,"~/test-repo-for-devops/main.tf"
+-'  150  0  ~/test-repo-for-devops/main.tf
+|4,39,150,0,1762070781,"~/test-repo-for-devops/main.tf"
+-'  150  0  ~/test-repo-for-devops/main.tf
+|4,39,150,0,1762070781,"~/test-repo-for-devops/main.tf"
+-'  150  0  ~/test-repo-for-devops/main.tf
+|4,39,150,0,1762070781,"~/test-repo-for-devops/main.tf"
+-'  150  0  ~/test-repo-for-devops/main.tf
+|4,39,150,0,1762070781,"~/test-repo-for-devops/main.tf"
+-'  150  0  ~/test-repo-for-devops/main.tf
+|4,39,150,0,1762070781,"~/test-repo-for-devops/main.tf"
+-'  150  0  ~/test-repo-for-devops/main.tf
+|4,39,150,0,1762070781,"~/test-repo-for-devops/main.tf"
+-'  150  0  ~/test-repo-for-devops/main.tf
+|4,39,150,0,1762070781,"~/test-repo-for-devops/main.tf"
+-'  150  0  ~/test-repo-for-devops/main.tf
+|4,39,150,0,1762070781,"~/test-repo-for-devops/main.tf"
+-'  150  0  ~/test-repo-for-devops/main.tf
+|4,39,150,0,1762070781,"~/test-repo-for-devops/main.tf"
+-'  150  0  ~/test-repo-for-devops/main.tf
+|4,39,150,0,1762070781,"~/test-repo-for-devops/main.tf"
+-'  150  0  ~/test-repo-for-devops/main.tf
+|4,39,150,0,1762070781,"~/test-repo-for-devops/main.tf"
+-'  150  0  ~/test-repo-for-devops/main.tf
+|4,39,150,0,1762070781,"~/test-repo-for-devops/main.tf"
+-'  150  0  ~/test-repo-for-devops/main.tf
+|4,39,150,0,1762070781,"~/test-repo-for-devops/main.tf"
+-'  150  0  ~/test-repo-for-devops/main.tf
+|4,39,150,0,1762070781,"~/test-repo-for-devops/main.tf"
+-'  150  0  ~/test-repo-for-devops/main.tf
+|4,39,150,0,1762070781,"~/test-repo-for-devops/main.tf"
+-'  150  0  ~/test-repo-for-devops/main.tf
+|4,39,150,0,1762070781,"~/test-repo-for-devops/main.tf"
+-'  150  0  ~/test-repo-for-devops/main.tf
+|4,39,150,0,1762070781,"~/test-repo-for-devops/main.tf"
+-'  150  0  ~/test-repo-for-devops/main.tf
+|4,39,150,0,1762070781,"~/test-repo-for-devops/main.tf"
+-'  150  0  ~/test-repo-for-devops/main.tf
+|4,39,150,0,1762070781,"~/test-repo-for-devops/main.tf"
+-'  150  0  ~/test-repo-for-devops/main.tf
+|4,39,150,0,1762070781,"~/test-repo-for-devops/main.tf"
+-'  150  0  ~/test-repo-for-devops/main.tf
+|4,39,150,0,1762070781,"~/test-repo-for-devops/main.tf"
+-'  150  0  ~/test-repo-for-devops/main.tf
+|4,39,150,0,1762070781,"~/test-repo-for-devops/main.tf"
+-'  150  0  ~/test-repo-for-devops/main.tf
+|4,39,150,0,1762070781,"~/test-repo-for-devops/main.tf"
+-'  150  0  ~/test-repo-for-devops/main.tf
+|4,39,150,0,1762070781,"~/test-repo-for-devops/main.tf"
+-'  150  0  ~/test-repo-for-devops/main.tf
+|4,39,150,0,1762070781,"~/test-repo-for-devops/main.tf"
+-'  150  0  ~/test-repo-for-devops/main.tf
+|4,39,150,0,1762070781,"~/test-repo-for-devops/main.tf"
+-'  150  0  ~/test-repo-for-devops/main.tf
+|4,39,150,0,1762070781,"~/test-repo-for-devops/main.tf"
+-'  150  0  ~/test-repo-for-devops/main.tf
+|4,39,150,0,1762070781,"~/test-repo-for-devops/main.tf"
+-'  150  0  ~/test-repo-for-devops/main.tf
+|4,39,150,0,1762070781,"~/test-repo-for-devops/main.tf"
+-'  150  0  ~/test-repo-for-devops/main.tf
+|4,39,150,0,1762070781,"~/test-repo-for-devops/main.tf"
+-'  150  0  ~/test-repo-for-devops/main.tf
+|4,39,150,0,1762070781,"~/test-repo-for-devops/main.tf"
+-'  150  0  ~/test-repo-for-devops/main.tf
+|4,39,150,0,1762070781,"~/test-repo-for-devops/main.tf"
+-'  150  0  ~/test-repo-for-devops/main.tf
+|4,39,150,0,1762070781,"~/test-repo-for-devops/main.tf"
+-'  150  0  ~/test-repo-for-devops/main.tf
+|4,39,150,0,1762070781,"~/test-repo-for-devops/main.tf"
+-'  150  0  ~/test-repo-for-devops/main.tf
+|4,39,150,0,1762070781,"~/test-repo-for-devops/main.tf"
+-'  150  0  ~/test-repo-for-devops/main.tf
+|4,39,150,0,1762070781,"~/test-repo-for-devops/main.tf"
+-'  150  0  ~/test-repo-for-devops/main.tf
+|4,39,150,0,1762070781,"~/test-repo-for-devops/main.tf"
 
 # History of marks within files (newest to oldest):
+
+> ~/test-repo-for-devops/deploy.sh
+	*	1762072962	0
+	"	8	14
+	^	8	15
+	.	8	14
+	+	57	16
+	+	35	14
+	+	8	14
+
+> ~/test-repo-for-devops/commit
+	*	1762072121	0
+	"	1	0
 
 > ~/test-repo-for-devops/dev_config
 	*	1762070836	0
@@ -282,14 +297,6 @@
 	^	150	0
 	.	149	1
 	+	149	1
-
-> ~/test-repo-for-devops/deploy.sh
-	*	1762070588	0
-	"	39	14
-	^	35	15
-	.	35	14
-	+	57	16
-	+	35	14
 
 > ~/test-repo-for-devops/user_data.sh.tpl
 	*	1762070258	0
